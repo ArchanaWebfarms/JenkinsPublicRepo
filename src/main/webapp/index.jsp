@@ -8,8 +8,6 @@
 </head>
 <body>
 <h1>Server Tested Succesfully.</h1>
-  <h2>Webhook testing...</h2>
-  Lets start...
-  restart...
+  <h2>Token added </h2>
 </body>
 </html>
